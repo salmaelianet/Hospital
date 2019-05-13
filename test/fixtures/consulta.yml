@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombreDoctor: MyString
+  fecha: 2019-05-11
+  diagnostico: MyText
+
+two:
+  nombreDoctor: MyString
+  fecha: 2019-05-11
+  diagnostico: MyText
